@@ -1,2 +1,1 @@
-# qmk_keymap
-# qmk_keymap
+# fsargent's RGBKB SOL3 keymap
